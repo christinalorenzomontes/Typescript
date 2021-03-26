@@ -1,4 +1,3 @@
-"use strict";
 // Explícita
 var nullVariable;
 nullVariable = null;

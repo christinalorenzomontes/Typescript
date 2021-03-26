@@ -1,4 +1,3 @@
-"use strict";
 console.log('hola Platzi');
 // Tipo: Number
 // Explícito

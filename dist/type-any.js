@@ -1,4 +1,3 @@
-"use strict";
 // Tipo explícito
 var idUser;
 idUser = 1; // number

@@ -1,4 +1,3 @@
-"use strict";
 // Type: object
 var user;
 user = {}; // Object

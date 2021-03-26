@@ -1,4 +1,3 @@
-"use strict";
 // Corchetes []
 // Tipo Explícito
 var users;
