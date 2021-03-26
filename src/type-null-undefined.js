@@ -1,4 +1,3 @@
-"use strict";
 // Explícita
 var nullVariable;
 nullVariable = null;
@@ -17,5 +16,5 @@ console.log('otherUndefined', otherUndefined);
 // Null y Undefined: Como subtipos
 // --strictNullChecks
 var albumName;
-//albumName = null;
-//albumName = undefined;
+albumName = null;
+albumName = undefined;
