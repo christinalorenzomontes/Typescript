@@ -13,7 +13,7 @@ function showFormattedInfo(user) {
 showFormattedInfo({ id: 1, username: 'christinalorenzo', firstName: 'Christina' });
 // Tipo void, como tipo de dato en varaible
 var unusuable;
-unusuable = null;
+//unusuable = null;
 unusuable = undefined;
 // Tipo: Never
 function handleError(code, message) {

@@ -21,7 +21,7 @@ showFormattedInfo({id: 1, username: 'christinalorenzo', firstName: 'Christina'})
 
 // Tipo void, como tipo de dato en varaible
 let unusuable: void;
-unusuable = null;
+//unusuable = null;
 unusuable = undefined;
 
 // Tipo: Never
