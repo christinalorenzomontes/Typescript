@@ -1,5 +1,5 @@
 // Función para mostrar una Fotografía
-export {}
+export {};
 
 enum PhotoOrientation  {
     Landscape,
@@ -69,6 +69,6 @@ let user : User;
 user = {id: 10, username: 'christinalorenzo', isPro: true};
 console.log('user', user);
 user.username = 'developer';
-user.id = 20; // Error!
+//user.id = 20; // Error!
 console.log('user', user);
 

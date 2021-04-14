@@ -40,5 +40,5 @@ var user;
 user = { id: 10, username: 'christinalorenzo', isPro: true };
 console.log('user', user);
 user.username = 'developer';
-user.id = 20; // Error!
+//user.id = 20; // Error!
 console.log('user', user);
