@@ -57,3 +57,18 @@ let picture = generatePicture({});
 console.log('picture', picture);
 picture = generatePicture({title: 'Travel Pic', date: '2021-05'});
 console.log('picture', picture);
+
+// Interfaz: Usuario
+interface User {
+    readonly id: number; // Solo lectura
+    username: string;
+    isPro: boolean;
+}
+
+let user : User;
+user = {id: 10, username: 'christinalorenzo', isPro: true};
+console.log('user', user);
+user.username = 'developer';
+user.id = 20; // Error!
+console.log('user', user);
+
